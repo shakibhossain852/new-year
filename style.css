@@ -135,3 +135,160 @@ font-weight: 700;
 text-decoration: none;
 margin-left: 175px;
 }
+.sec4-div1{
+    width: 400px;
+    height: 242px;
+    margin: 110px 60px 110px 0px;
+}
+.sec4{
+    display: flex;
+    justify-content:space-between;
+}
+.div3-para{
+    width: 276px;
+height: 96px;
+}
+.sec4-div3{
+    margin:80px 0px 0px 60px ;
+}
+.div2-img{
+    
+    border: 15px  solid  rgb(255, 0, 0);
+    border-radius: 100%;
+    margin-right: 80px;
+
+}
+.sec5{
+    width: 1320px;
+height: 986.07px;
+
+margin-bottom: 30px;
+}
+.sec5-div1-para{
+    width: 1068px;
+height: 96px;
+
+}
+.sec5-div1{
+    
+    text-align: center;
+    width: 1068px;
+    height: 260px;
+    margin: 0px 126px;
+}
+
+.redbox{
+    width: 1320px;
+    height: 229px;
+    background-color: red;
+    margin-top: 473px;
+    
+    display: flex;
+
+}
+
+.giftbox{
+    position: relative;
+    bottom: 370px;
+    left:20px;
+}
+
+.giftbox img{
+    width: 674.82px;
+height: 577.96px;
+opacity: 0.9;
+}
+
+.offer{
+    position: relative;
+    bottom:370px;
+    left: 200px;
+}
+
+.offer img{
+    width: 305.69px;
+height: 305.69px;
+}
+.div6-img-container{
+    
+display: grid;
+grid-template-columns: repeat(3,1fr);
+
+}
+.div6-img{
+    width: 424px;
+    height: 450px;
+
+}
+.div6{width: 1320px;
+    height: 1163px;
+    margin-bottom: 100px;
+    
+}
+.div6-text-title{
+    font-size: 24px;
+font-weight: 500;
+
+}
+.div6-text-des{
+    font-size: 48px;
+    font-weight: 900;
+}
+.div6-text-para{
+    font-size: 20px;
+font-weight: 400;
+width: 896px;
+height: 64px;
+}
+
+.abcd{
+    width: 1320px;
+    height: 616px;
+    background-color: bisque;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.container10{
+    display: flex;
+    justify-content: space-between;
+    width:648px;
+    height:72px;
+
+    border: 0 solid black;
+    
+    
+}
+
+.inputemail{
+    width: 67%;
+    border:none;
+    background-color: #FFFFFF;
+    border-top-left-radius: 50px;
+border-bottom-left-radius: 50px;
+}
+.inputbtn{
+    width: 33%;
+    border: 0;
+    background-color: red;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+/* .inputemail{
+    width: 648px;
+height: 72px;
+border-top-left-radius: 50px;
+border-bottom-left-radius: 50px;
+bo
+
+}
+.inputbtn{width: 210px;
+    height: 77px;
+    border-top-right-radius: 50px;
+border-bottom-right-radius: 50px;
+background-color: red;
+
+
+
+} */
